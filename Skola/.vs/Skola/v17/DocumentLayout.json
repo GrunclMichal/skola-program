@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Skola\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|c:\\users\\admin\\source\\repos\\skola\\skola\\views\\allpodpora.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|solutionrelative:skola\\views\\allpodpora.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|c:\\users\\admin\\source\\repos\\skola\\skola\\views\\allstudents.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|solutionrelative:skola\\views\\allstudents.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|c:\\users\\admin\\source\\repos\\skola\\skola\\views\\allucitele.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|solutionrelative:skola\\views\\allucitele.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|c:\\users\\admin\\source\\repos\\skola\\skola\\views\\alludrzbari.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|solutionrelative:skola\\views\\alludrzbari.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|c:\\users\\admin\\source\\repos\\skola\\skola\\views\\alludrzbari.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|solutionrelative:skola\\views\\alludrzbari.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|c:\\users\\admin\\source\\repos\\skola\\skola\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|solutionrelative:skola\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|c:\\users\\admin\\source\\repos\\skola\\skola\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|solutionrelative:skola\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|c:\\users\\admin\\source\\repos\\skola\\skola\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|solutionrelative:skola\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|c:\\users\\admin\\source\\repos\\skola\\skola\\views\\udrzbaripage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|solutionrelative:skola\\views\\udrzbaripage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|c:\\users\\admin\\source\\repos\\skola\\skola\\views\\ucitelepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|solutionrelative:skola\\views\\ucitelepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|c:\\users\\admin\\source\\repos\\skola\\skola\\views\\udrzbaripage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|solutionrelative:skola\\views\\udrzbaripage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|c:\\users\\admin\\source\\repos\\skola\\skola\\views\\ucitelepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|solutionrelative:skola\\views\\ucitelepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|c:\\users\\admin\\source\\repos\\skola\\skola\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|solutionrelative:skola\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|c:\\users\\admin\\source\\repos\\skola\\skola\\views\\podporapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|solutionrelative:skola\\views\\podporapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|c:\\users\\admin\\source\\repos\\skola\\skola\\models\\alludrzbari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC42E1A5-5981-4B03-ADC9-2C9CE4E23065}|Skola\\Skola.csproj|solutionrelative:skola\\models\\alludrzbari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AllPodpora.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\Views\\AllPodpora.xaml",
+              "RelativeDocumentMoniker": "Skola\\Views\\AllPodpora.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\Views\\AllPodpora.xaml*",
+              "RelativeToolTip": "Skola\\Views\\AllPodpora.xaml*",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-08T06:22:47.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AllStudents.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\Views\\AllStudents.xaml",
+              "RelativeDocumentMoniker": "Skola\\Views\\AllStudents.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\Views\\AllStudents.xaml*",
+              "RelativeToolTip": "Skola\\Views\\AllStudents.xaml*",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-08T06:22:36.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AllUcitele.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\Views\\AllUcitele.xaml",
+              "RelativeDocumentMoniker": "Skola\\Views\\AllUcitele.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\Views\\AllUcitele.xaml*",
+              "RelativeToolTip": "Skola\\Views\\AllUcitele.xaml*",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-08T06:22:24.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Skola\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\AppShell.xaml.cs",
+              "RelativeToolTip": "Skola\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwAsAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:18:34.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Skola\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\MauiProgram.cs",
+              "RelativeToolTip": "Skola\\MauiProgram.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:18:27.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Skola\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\AppShell.xaml",
+              "RelativeToolTip": "Skola\\AppShell.xaml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-08T06:11:22.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UcitelePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\Views\\UcitelePage.xaml.cs",
+              "RelativeDocumentMoniker": "Skola\\Views\\UcitelePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\Views\\UcitelePage.xaml.cs",
+              "RelativeToolTip": "Skola\\Views\\UcitelePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:11:03.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UdrzbariPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\Views\\UdrzbariPage.xaml.cs",
+              "RelativeDocumentMoniker": "Skola\\Views\\UdrzbariPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\Views\\UdrzbariPage.xaml.cs",
+              "RelativeToolTip": "Skola\\Views\\UdrzbariPage.xaml.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:10:59.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UdrzbariPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\Views\\UdrzbariPage.xaml",
+              "RelativeDocumentMoniker": "Skola\\Views\\UdrzbariPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\Views\\UdrzbariPage.xaml",
+              "RelativeToolTip": "Skola\\Views\\UdrzbariPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-08T06:10:09.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\App.xaml",
+              "RelativeDocumentMoniker": "Skola\\App.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\App.xaml",
+              "RelativeToolTip": "Skola\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-08T06:10:03.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UcitelePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\Views\\UcitelePage.xaml",
+              "RelativeDocumentMoniker": "Skola\\Views\\UcitelePage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\Views\\UcitelePage.xaml",
+              "RelativeToolTip": "Skola\\Views\\UcitelePage.xaml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAB4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-08T06:10:02.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AllUdrzbari.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\Views\\AllUdrzbari.xaml.cs",
+              "RelativeDocumentMoniker": "Skola\\Views\\AllUdrzbari.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\Views\\AllUdrzbari.xaml.cs",
+              "RelativeToolTip": "Skola\\Views\\AllUdrzbari.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAlwA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:08:00.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PodporaPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\Views\\PodporaPage.xaml",
+              "RelativeDocumentMoniker": "Skola\\Views\\PodporaPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\Views\\PodporaPage.xaml",
+              "RelativeToolTip": "Skola\\Views\\PodporaPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-08T06:07:54.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AllUdrzbari.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\Views\\AllUdrzbari.xaml",
+              "RelativeDocumentMoniker": "Skola\\Views\\AllUdrzbari.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\Views\\AllUdrzbari.xaml*",
+              "RelativeToolTip": "Skola\\Views\\AllUdrzbari.xaml*",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-08T00:14:23.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AllUdrzbari.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\Models\\AllUdrzbari.cs",
+              "RelativeDocumentMoniker": "Skola\\Models\\AllUdrzbari.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Skola\\Skola\\Models\\AllUdrzbari.cs",
+              "RelativeToolTip": "Skola\\Models\\AllUdrzbari.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:09:18.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

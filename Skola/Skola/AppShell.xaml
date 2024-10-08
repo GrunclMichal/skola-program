@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="Skola.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:Skola"
+    xmlns:view="clr-namespace:Skola.Views"
+    Shell.FlyoutBehavior="Flyout"
+    Shell.TabBarIsVisible="False"
+    Title="Skola">
+
+    <Shell.FlyoutHeader>
+        <Label FontSize="35" HorizontalTextAlignment="Center">
+            Škola
+        </Label>
+    </Shell.FlyoutHeader>
+    
+    <FlyoutItem FlyoutDisplayOptions="AsMultipleItems">
+        
+        <ShellContent
+            Title="Učitelé"
+            ContentTemplate="{DataTemplate view:AllUcitele}"
+            Route="Views.UcitelePage" />
+
+        <ShellContent
+            Title="Údržbáři"
+            ContentTemplate="{DataTemplate view:AllUdrzbari}"
+            Route="Views.UdrzbariPage" />
+
+        <ShellContent
+            Title="Podpora"
+            ContentTemplate="{DataTemplate view:AllPodpora}"
+            Route="Views.PodporaPage" />
+
+        <ShellContent
+            Title="Studenti"
+            ContentTemplate="{DataTemplate view:AllStudents}"
+            Route="Views.StudentiPage" />
+
+    </FlyoutItem>
+
+</Shell>

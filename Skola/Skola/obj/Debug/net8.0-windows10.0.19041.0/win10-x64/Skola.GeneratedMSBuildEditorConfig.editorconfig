@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net8.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Skola
+build_property.ProjectDir = C:\Users\Admin\source\repos\Skola\Skola\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/Admin/source/repos/Skola/Skola/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Skola.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Admin/source/repos/Skola/Skola/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Skola.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Admin/source/repos/Skola/Skola/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Skola.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Admin/source/repos/Skola/Skola/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Skola.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Admin/source/repos/Skola/Skola/Views/AllPodpora.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Skola.Views.AllPodpora.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AllPodpora.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AllPodpora.xaml
+
+[C:/Users/Admin/source/repos/Skola/Skola/Views/AllStudents.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Skola.Views.AllStudents.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AllStudents.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AllStudents.xaml
+
+[C:/Users/Admin/source/repos/Skola/Skola/Views/AllUcitele.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Skola.Views.AllUcitele.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AllUcitele.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AllUcitele.xaml
+
+[C:/Users/Admin/source/repos/Skola/Skola/Views/AllUdrzbari.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Skola.Views.AllUdrzbari.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AllUdrzbari.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AllUdrzbari.xaml
+
+[C:/Users/Admin/source/repos/Skola/Skola/Views/PodporaPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Skola.Views.PodporaPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\PodporaPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\PodporaPage.xaml
+
+[C:/Users/Admin/source/repos/Skola/Skola/Views/StudentiPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Skola.Views.StudentiPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\StudentiPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\StudentiPage.xaml
+
+[C:/Users/Admin/source/repos/Skola/Skola/Views/UcitelePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Skola.Views.UcitelePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\UcitelePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\UcitelePage.xaml
+
+[C:/Users/Admin/source/repos/Skola/Skola/Views/UdrzbariPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Skola.Views.UdrzbariPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\UdrzbariPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\UdrzbariPage.xaml
